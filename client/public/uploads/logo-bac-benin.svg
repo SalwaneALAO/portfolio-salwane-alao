@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200" role="img" aria-label="Baccalauréat Bénin">
+  <rect width="400" height="200" fill="#0a0a0a"/>
+  <text x="200" y="110" fill="#fcd116" font-size="32" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">Baccalauréat Bénin</text>
+  <rect x="90" y="130" width="220" height="8" fill="#009e49"/>
+  <rect x="90" y="142" width="90" height="8" fill="#fcd116"/>
+  <rect x="220" y="142" width="90" height="8" fill="#e8112d"/>
+</svg>
+
+

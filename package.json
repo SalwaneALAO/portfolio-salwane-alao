@@ -1,0 +1,15 @@
+{
+  "name": "portfolio-data-analyst",
+  "version": "1.0.0",
+  "description": "Portfolio moderne pour data analyst avec animations de scroll",
+  "scripts": {
+    "dev": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "start": "cd client && npm run start",
+    "install:all": "npm install && cd client && npm install"
+  },
+  "keywords": ["portfolio", "data-analyst", "react", "nextjs", "php"],
+  "author": "",
+  "license": "MIT"
+}
+

@@ -1,0 +1,67 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Next.js
+/client/.next/
+/client/out/
+/client/build
+/client/dist
+
+# Production
+/build
+/dist
+
+# Misc
+.DS_Store
+*.pem
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local env files
+.env
+.env*.local
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Database config (sensitive)
+server/config/database.php
+
+# Uploads (documents personnels)
+client/public/uploads/*.pdf
+client/public/uploads/*.jpeg
+client/public/uploads/*.jpg
+client/public/uploads/*.png
+!client/public/uploads/.gitkeep
+!client/public/uploads/README.md
+
+# Profile picture
+client/public/images/profile-picture.png
+client/public/images/profile-picture.jpg
+
+# Debug logs
+.cursor/debug.log
+
+# OS
+Thumbs.db
+.DS_Store
+
