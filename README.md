@@ -20,7 +20,7 @@ Portfolio professionnel de **SALWANE ALAO**
 
 1. **Cloner le dépôt**
 ```bash
-git clone https://github.com/VOTRE_USERNAME/VOTRE_REPO.git
+git clone https://github.com/SalwaneALAO/portfolio-salwane-alao.git
 cd Portfolio
 ```
 
