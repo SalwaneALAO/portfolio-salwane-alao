@@ -10,7 +10,10 @@ const dbConfig = {
   charset: 'utf8mb4',
   waitForConnections: true,
   connectionLimit: 10,
-  queueLimit: 0
+  queueLimit: 0,
+  // Timeout pour éviter les blocages pendant le build
+  connectTimeout: 5000,
+  acquireTimeout: 5000
 };
 
 // Créer un pool de connexions

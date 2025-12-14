@@ -1,6 +1,10 @@
 import { NextResponse } from 'next/server';
 import { query } from '@/lib/db';
 
+// Force dynamic rendering - don't cache
+export const dynamic = 'force-dynamic';
+export const revalidate = 0;
+
 export async function GET() {
   try {
     // Récupérer toutes les données du portfolio
